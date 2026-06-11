@@ -1,0 +1,17 @@
+# Hi, I'm Mark Okoth Otieno 👋
+### Systems Architect | Revenue Engineer | AI Automation Specialist
+
+I bridge the gap between technical engineering logic and high-growth sales marketing. My work focuses on building "revenue engines"—automated systems that eliminate friction and scale businesses.
+
+- 🛠️ **Current Focus:** Building "Speed-to-Lead" engines and AI-powered sales agents.
+- ⚙️ **Logic:** Applying diagnostic engineering principles (Automotive Engineering background) to digital workflows.
+- 📍 **Based in:** Nairobi, Kenya.
+
+### My Tech Stack
+- **Automation:** n8n (Expert), Zapier, Make.com
+- **AI:** Custom Gemini/GPT Agents, Prompt Engineering
+- **Web:** WordPress Architecture, Elementor, REST APIs
+- **Logic:** Systems Thinking, Root-Cause Analysis, Data Structuring
+
+---
+  📫 **Let's Connect:** [markokoth2021@gmail.com] | [www.linkedin.com/in/mark-okoth-7b2003212]
